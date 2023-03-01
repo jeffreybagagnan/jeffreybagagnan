@@ -8,10 +8,6 @@ Hi 👋, I'm Jeffrey Bagagnan
 I'm from the Philippines and a father of two lovely daughters, and a loving husband to my wife
 Coding
 
-jeffreybagagnan
-
-jeffreybagagnan
-
 🌱 I’m currently learning cs50x Introduction to Computer Science
 
 💬 Ask me about I don't have enough knowledge regarding to other codding languages, but I'm getting there
@@ -25,9 +21,3 @@ jeffreybagagnan23 jbagagnan jeffreybagagnan
 
 Languages and Tools:
 canvasjs java javascript
-
-jeffreybagagnan
-
- jeffreybagagnan
-
-jeffreybagagnan
